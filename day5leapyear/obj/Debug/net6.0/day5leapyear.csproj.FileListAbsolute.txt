@@ -1,0 +1,15 @@
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5leapyear\obj\Debug\net6.0\day5leapyear.csproj.AssemblyReference.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5leapyear\obj\Debug\net6.0\day5leapyear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5leapyear\obj\Debug\net6.0\day5leapyear.AssemblyInfoInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5leapyear\obj\Debug\net6.0\day5leapyear.AssemblyInfo.cs
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5leapyear\obj\Debug\net6.0\day5leapyear.csproj.CoreCompileInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5leapyear\bin\Debug\net6.0\day5leapyear.exe
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5leapyear\bin\Debug\net6.0\day5leapyear.deps.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5leapyear\bin\Debug\net6.0\day5leapyear.runtimeconfig.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5leapyear\bin\Debug\net6.0\day5leapyear.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5leapyear\bin\Debug\net6.0\day5leapyear.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5leapyear\obj\Debug\net6.0\day5leapyear.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5leapyear\obj\Debug\net6.0\refint\day5leapyear.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5leapyear\obj\Debug\net6.0\day5leapyear.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5leapyear\obj\Debug\net6.0\day5leapyear.genruntimeconfig.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5leapyear\obj\Debug\net6.0\ref\day5leapyear.dll
