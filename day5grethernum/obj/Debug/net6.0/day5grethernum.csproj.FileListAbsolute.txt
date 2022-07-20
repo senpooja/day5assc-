@@ -1,0 +1,15 @@
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5grethernum\bin\Debug\net6.0\day5grethernum.exe
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5grethernum\bin\Debug\net6.0\day5grethernum.deps.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5grethernum\bin\Debug\net6.0\day5grethernum.runtimeconfig.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5grethernum\bin\Debug\net6.0\day5grethernum.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5grethernum\bin\Debug\net6.0\day5grethernum.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5grethernum\obj\Debug\net6.0\day5grethernum.csproj.AssemblyReference.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5grethernum\obj\Debug\net6.0\day5grethernum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5grethernum\obj\Debug\net6.0\day5grethernum.AssemblyInfoInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5grethernum\obj\Debug\net6.0\day5grethernum.AssemblyInfo.cs
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5grethernum\obj\Debug\net6.0\day5grethernum.csproj.CoreCompileInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5grethernum\obj\Debug\net6.0\day5grethernum.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5grethernum\obj\Debug\net6.0\refint\day5grethernum.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5grethernum\obj\Debug\net6.0\day5grethernum.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5grethernum\obj\Debug\net6.0\day5grethernum.genruntimeconfig.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5grethernum\obj\Debug\net6.0\ref\day5grethernum.dll
