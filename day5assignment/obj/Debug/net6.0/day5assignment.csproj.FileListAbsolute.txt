@@ -1,0 +1,15 @@
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5assignment\obj\Debug\net6.0\day5assignment.csproj.AssemblyReference.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5assignment\obj\Debug\net6.0\day5assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5assignment\obj\Debug\net6.0\day5assignment.AssemblyInfoInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5assignment\obj\Debug\net6.0\day5assignment.AssemblyInfo.cs
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5assignment\obj\Debug\net6.0\day5assignment.csproj.CoreCompileInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5assignment\bin\Debug\net6.0\day5assignment.exe
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5assignment\bin\Debug\net6.0\day5assignment.deps.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5assignment\bin\Debug\net6.0\day5assignment.runtimeconfig.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5assignment\bin\Debug\net6.0\day5assignment.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5assignment\bin\Debug\net6.0\day5assignment.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5assignment\obj\Debug\net6.0\day5assignment.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5assignment\obj\Debug\net6.0\refint\day5assignment.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5assignment\obj\Debug\net6.0\day5assignment.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5assignment\obj\Debug\net6.0\day5assignment.genruntimeconfig.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5assignment\obj\Debug\net6.0\ref\day5assignment.dll
