@@ -1,0 +1,15 @@
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5swapnumber\bin\Debug\net6.0\day5swapnumber.exe
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5swapnumber\bin\Debug\net6.0\day5swapnumber.deps.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5swapnumber\bin\Debug\net6.0\day5swapnumber.runtimeconfig.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5swapnumber\bin\Debug\net6.0\day5swapnumber.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5swapnumber\bin\Debug\net6.0\day5swapnumber.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5swapnumber\obj\Debug\net6.0\day5swapnumber.csproj.AssemblyReference.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5swapnumber\obj\Debug\net6.0\day5swapnumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5swapnumber\obj\Debug\net6.0\day5swapnumber.AssemblyInfoInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5swapnumber\obj\Debug\net6.0\day5swapnumber.AssemblyInfo.cs
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5swapnumber\obj\Debug\net6.0\day5swapnumber.csproj.CoreCompileInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5swapnumber\obj\Debug\net6.0\day5swapnumber.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5swapnumber\obj\Debug\net6.0\refint\day5swapnumber.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5swapnumber\obj\Debug\net6.0\day5swapnumber.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5swapnumber\obj\Debug\net6.0\day5swapnumber.genruntimeconfig.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5swapnumber\obj\Debug\net6.0\ref\day5swapnumber.dll
