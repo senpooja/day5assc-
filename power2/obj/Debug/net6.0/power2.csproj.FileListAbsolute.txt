@@ -1,0 +1,15 @@
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\power2\obj\Debug\net6.0\power2.csproj.AssemblyReference.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\power2\obj\Debug\net6.0\power2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\power2\obj\Debug\net6.0\power2.AssemblyInfoInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\power2\obj\Debug\net6.0\power2.AssemblyInfo.cs
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\power2\obj\Debug\net6.0\power2.csproj.CoreCompileInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\power2\bin\Debug\net6.0\power2.exe
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\power2\bin\Debug\net6.0\power2.deps.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\power2\bin\Debug\net6.0\power2.runtimeconfig.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\power2\bin\Debug\net6.0\power2.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\power2\bin\Debug\net6.0\power2.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\power2\obj\Debug\net6.0\power2.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\power2\obj\Debug\net6.0\refint\power2.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\power2\obj\Debug\net6.0\power2.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\power2\obj\Debug\net6.0\power2.genruntimeconfig.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\power2\obj\Debug\net6.0\ref\power2.dll
