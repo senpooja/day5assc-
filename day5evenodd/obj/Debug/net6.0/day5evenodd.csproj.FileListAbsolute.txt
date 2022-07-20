@@ -1,0 +1,15 @@
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5evenodd\bin\Debug\net6.0\day5evenodd.exe
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5evenodd\bin\Debug\net6.0\day5evenodd.deps.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5evenodd\bin\Debug\net6.0\day5evenodd.runtimeconfig.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5evenodd\bin\Debug\net6.0\day5evenodd.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5evenodd\bin\Debug\net6.0\day5evenodd.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5evenodd\obj\Debug\net6.0\day5evenodd.csproj.AssemblyReference.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5evenodd\obj\Debug\net6.0\day5evenodd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5evenodd\obj\Debug\net6.0\day5evenodd.AssemblyInfoInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5evenodd\obj\Debug\net6.0\day5evenodd.AssemblyInfo.cs
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5evenodd\obj\Debug\net6.0\day5evenodd.csproj.CoreCompileInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5evenodd\obj\Debug\net6.0\day5evenodd.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5evenodd\obj\Debug\net6.0\refint\day5evenodd.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5evenodd\obj\Debug\net6.0\day5evenodd.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5evenodd\obj\Debug\net6.0\day5evenodd.genruntimeconfig.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day5assignment 1\day5evenodd\obj\Debug\net6.0\ref\day5evenodd.dll
